@@ -1,0 +1,926 @@
+Order_ID,Order_Date,Region,Product,Category,Sales_Amount,Profit,Quantity
+ORD1344,10-02-2024,East,Office Chair,Furniture,67464,9175.1,9
+ORD1170,18-11-2024,Central,Formal Shirt,Clothing,8212,1494.58,4
+ORD1890,30-03-2024,West,Mixer Grinder,Appliances,13152,1407.26,2
+ORD1059,30-11-2024,Central,Laptop,Electronics,491580,85043.34,9
+ORD1668,21-09-2024,Central,T-Shirt,Clothing,6010,1045.74,10
+ORD1476,31-10-2024,West,Sneakers,Clothing,10452,2895.2,6
+ORD1680,17-05-2024,East,Laptop,Electronics,531408,84493.87,6
+ORD1840,21-01-2024,South,Sneakers,Clothing,27184,4430.99,8
+ORD1522,09-06-2024,North,Study Table,Furniture,29580,4259.52,5
+ORD1288,11-07-2024,South,Bluetooth Speaker,Electronics,6768,1028.74,3
+ORD1630,15-10-2024,South,Air Fryer,Appliances,46256,7123.42,4
+ORD1549,05-09-2024,East,T-Shirt,Clothing,394,66.98,1
+ORD1827,05-07-2024,East,Sticky Notes,Stationery,60,15.78,3
+ORD1520,19-07-2024,Central,Headphones,Electronics,22098,3646.17,6
+ORD1108,20-07-2024,Central,Air Fryer,Appliances,4875,799.5,1
+ORD1143,01-09-2024,North,Tablet,Electronics,309589,26934.24,7
+ORD1463,08-04-2024,Central,Mixer Grinder,Appliances,24515,3113.41,5
+ORD1676,26-05-2024,Central,Notebook,Stationery,441,122.16,7
+ORD1091,18-11-2024,Central,Office Chair,Furniture,77693,13363.2,7
+ORD1888,13-10-2024,Central,Notebook,Stationery,804,205.02,6
+ORD1649,25-04-2024,South,Highlighters,Stationery,96,24.86,2
+ORD1218,26-11-2024,East,Smartphone,Electronics,196560,19459.44,7
+ORD1821,09-05-2024,South,Headphones,Electronics,18888,3022.08,3
+ORD1217,30-04-2024,East,Headphones,Electronics,31560,5365.2,6
+ORD1209,10-12-2024,East,Air Fryer,Appliances,67102,7448.32,7
+ORD1721,15-07-2024,Central,Air Fryer,Appliances,31180,3336.26,5
+ORD1715,19-06-2024,South,Bed Frame,Furniture,10154,1817.57,1
+ORD1538,23-05-2024,Central,Microwave Oven,Appliances,30906,6119.39,3
+ORD1707,12-05-2024,Central,Sneakers,Clothing,12747,3581.91,3
+ORD1025,16-09-2024,North,Iron,Appliances,14395,2317.6,5
+ORD1345,04-06-2024,Central,Microwave Oven,Appliances,26468,4340.75,2
+ORD1133,05-12-2024,Central,Notebook,Stationery,800,244.8,8
+ORD1177,24-05-2024,East,Air Fryer,Appliances,115220,21546.14,10
+ORD1042,12-03-2024,West,Bluetooth Speaker,Electronics,23445,2461.72,5
+ORD1290,17-08-2024,South,Microwave Oven,Appliances,40280,7935.16,4
+ORD1810,26-04-2024,East,Sticky Notes,Stationery,539,175.71,7
+ORD1015,10-06-2024,West,Bookshelf,Furniture,11912,2846.97,2
+ORD1215,20-03-2024,West,Iron,Appliances,5608,908.5,2
+ORD1061,20-03-2024,East,Sofa,Furniture,288030,61350.39,10
+ORD1515,05-04-2024,West,Pen Set,Stationery,364,137.23,1
+ORD1477,18-08-2024,West,Study Table,Furniture,78360,18963.12,6
+ORD1651,11-07-2024,South,Jacket,Clothing,6880,2325.44,2
+ORD1378,09-06-2024,West,Smartwatch,Electronics,89691,8969.1,7
+ORD1823,04-02-2024,East,Headphones,Electronics,26976,3722.69,4
+ORD1754,15-09-2024,West,File Folder,Stationery,102,35.7,3
+ORD1589,10-12-2024,North,Bluetooth Speaker,Electronics,20500,3649.0,4
+ORD1471,10-06-2024,North,Office Chair,Furniture,53620,11689.16,10
+ORD1730,30-08-2024,South,Office Chair,Furniture,7933,1388.27,1
+ORD1898,30-06-2024,South,Air Fryer,Appliances,32470,6331.65,5
+ORD1313,25-08-2024,West,Iron,Appliances,4056,429.94,3
+ORD1709,18-06-2024,East,Bookshelf,Furniture,73170,13170.6,10
+ORD1685,20-09-2024,South,Tablet,Electronics,192180,18064.92,5
+ORD1495,15-06-2024,West,Bookshelf,Furniture,59360,8013.6,7
+ORD1778,21-12-2024,East,Jeans,Clothing,4484,1174.81,2
+ORD1533,22-01-2024,West,Microwave Oven,Appliances,47860,5264.6,4
+ORD1379,13-09-2024,Central,File Folder,Stationery,115,26.22,1
+ORD1381,29-03-2024,West,Microwave Oven,Appliances,83700,,6
+ORD1002,22-02-2024,Central,Tablet,Electronics,396510,32910.33,10
+ORD1349,23-11-2024,North,File Folder,Stationery,558,183.02,9
+ORD1567,02-05-2024,West,Pen Set,Stationery,346,103.8,2
+ORD1466,28-11-2024,North,Tablet,Electronics,257985,30442.23,7
+ORD1783,14-04-2024,Central,Smartphone,Electronics,237966,,6
+ORD1608,26-01-2024,East,Bookshelf,Furniture,9027,2202.59,3
+ORD1758,11-09-2024,North,Headphones,Electronics,29239,2456.08,7
+ORD1169,27-05-2024,West,Jeans,Clothing,10376,1618.66,8
+ORD1764,29-05-2024,Central,Mixer Grinder,Appliances,17220,1808.1,6
+ORD1677,05-09-2024,Central,Water Purifier,Appliances,52904,6189.77,8
+ORD1174,29-08-2024,South,Highlighters,Stationery,693,191.96,9
+ORD1519,14-05-2024,West,Mixer Grinder,Appliances,41340,5746.26,6
+ORD1742,14-11-2024,East,Jacket,Clothing,5452,1706.48,2
+ORD1811,09-08-2024,East,Laptop,Electronics,553875,50956.5,7
+ORD1263,24-07-2024,Central,Tablet,Electronics,226338,35082.39,7
+ORD1101,19-03-2024,South,Tablet,Electronics,270984,30621.19,7
+ORD1084,13-07-2024,South,Water Purifier,Appliances,109300,15411.3,10
+ORD1457,18-11-2024,South,Tablet,Electronics,37797,3855.29,3
+ORD1634,14-06-2024,North,Laptop,Electronics,220332,33049.8,3
+ORD1798,05-12-2024,East,Bed Frame,Furniture,117714,17421.67,6
+ORD1507,13-12-2024,Central,Jeans,Clothing,12753,2792.91,9
+ORD1741,05-12-2024,South,Bed Frame,Furniture,235866,41748.28,6
+ORD1160,10-12-2024,East,Air Fryer,Appliances,6370,936.39,1
+ORD1151,28-07-2024,West,Jeans,Clothing,27240,5665.92,10
+ORD1599,13-02-2024,Central,Headphones,Electronics,17037,2453.33,9
+ORD1833,16-09-2024,North,Air Fryer,Appliances,101370,17942.49,10
+ORD1078,09-06-2024,West,Water Purifier,Appliances,71046,9875.39,9
+ORD1527,05-01-2024,West,Smartwatch,Electronics,59424,7012.03,4
+ORD1200,26-05-2024,South,Water Purifier,Appliances,57528,9434.59,6
+ORD1207,11-12-2024,West,Formal Shirt,Clothing,12141,2039.69,9
+ORD1315,22-01-2024,East,Sofa,Furniture,369882,92100.62,9
+ORD1881,23-09-2024,East,Jeans,Clothing,10350,3508.65,10
+ORD1541,01-12-2024,South,Jeans,Clothing,5466,978.41,3
+ORD1782,26-05-2024,East,Smartwatch,Electronics,12814,2024.61,1
+ORD1122,03-08-2024,West,Headphones,Electronics,26369,3797.14,7
+ORD1253,08-08-2024,North,Sofa,Furniture,468910,88623.99,10
+ORD1724,07-09-2024,East,Sneakers,Clothing,11400,3876.0,4
+ORD1733,24-02-2024,West,Office Chair,Furniture,62720,13861.12,10
+ORD1664,19-02-2024,North,T-Shirt,Clothing,8448,1968.38,6
+ORD1377,04-05-2024,North,Air Fryer,Appliances,13250,1351.5,2
+ORD1516,18-08-2024,Central,Sticky Notes,Stationery,140,47.74,7
+ORD1573,24-07-2024,North,Iron,Appliances,12825,1641.6,9
+ORD1750,13-12-2024,Central,Sneakers,Clothing,33340,11535.64,10
+ORD1444,19-06-2024,East,Laptop,Electronics,189812,33406.91,4
+ORD1127,08-12-2024,West,Bed Frame,Furniture,26197,6051.51,1
+ORD1161,29-11-2024,West,Bookshelf,Furniture,28923,5871.37,3
+ORD1581,17-05-2024,North,Sneakers,Clothing,4244,1319.88,1
+ORD1885,02-05-2024,North,Bluetooth Speaker,Electronics,6320,998.56,2
+ORD1115,28-02-2024,Central,Office Chair,Furniture,115680,17699.04,8
+ORD1072,20-01-2024,West,Study Table,Furniture,69512,16613.37,4
+ORD1693,12-12-2024,South,Bookshelf,Furniture,76363,9392.65,7
+ORD1814,03-06-2024,Central,Tablet,Electronics,203415,24002.97,5
+ORD1515,05-04-2024,West,Pen Set,Stationery,364,,1
+ORD1484,30-06-2024,Central,Tablet,Electronics,332610,55213.26,10
+ORD1401,31-05-2024,Central,T-Shirt,Clothing,2636,716.99,4
+ORD1809,28-01-2024,South,Formal Shirt,Clothing,8710,1428.44,5
+ORD1455,04-10-2024,North,Mixer Grinder,Appliances,2608,508.56,1
+ORD1878,21-11-2024,North,Formal Shirt,Clothing,4572,818.39,2
+ORD1065,09-10-2024,West,Microwave Oven,Appliances,6832,737.86,1
+ORD1031,27-09-2024,Central,Sticky Notes,Stationery,356,124.96,4
+ORD1039,27-07-2024,South,Headphones,Electronics,12396,1524.71,2
+ORD1749,24-01-2024,North,Bookshelf,Furniture,16212,3436.94,6
+ORD1804,16-08-2024,West,Smartphone,Electronics,263490,26085.51,5
+ORD1046,18-07-2024,East,Formal Shirt,Clothing,9472,2225.92,8
+ORD1593,09-09-2024,South,Jacket,Clothing,38826,11997.23,9
+ORD1045,03-09-2024,South,Pen Set,Stationery,134,36.98,1
+ORD1636,05-12-2024,West,Air Fryer,Appliances,18028,2343.64,2
+ORD1425,05-10-2024,West,Microwave Oven,Appliances,61334,7666.75,7
+ORD1508,13-01-2024,West,Headphones,Electronics,21035,3618.02,5
+ORD1414,16-06-2024,Central,Highlighters,Stationery,184,63.11,2
+ORD1867,05-10-2024,West,Bookshelf,Furniture,10356,2195.47,4
+ORD1687,12-04-2024,North,Study Table,Furniture,11478,1457.71,1
+ORD1319,11-09-2024,East,Formal Shirt,Clothing,10314,3197.34,9
+ORD1380,16-04-2024,Central,Bed Frame,Furniture,217744,36798.74,8
+ORD1682,09-03-2024,East,Jacket,Clothing,34960,11012.4,8
+ORD1180,02-05-2024,Central,Pen Set,Stationery,1040,217.36,4
+ORD1118,21-10-2024,West,Pen Set,Stationery,352,111.94,4
+ORD1584,21-03-2024,East,Sneakers,Clothing,4888,958.05,2
+ORD1426,26-06-2024,South,Bookshelf,Furniture,17392,2156.61,4
+ORD1309,28-08-2024,North,Iron,Appliances,16303,2037.88,7
+ORD1653,08-08-2024,South,Water Purifier,Appliances,60011,6301.15,7
+ORD1413,07-10-2024,Central,Office Chair,Furniture,117920,16390.88,10
+ORD1498,29-05-2024,North,Formal Shirt,Clothing,13846,3461.5,7
+ORD1434,12-10-2024,Central,Jacket,Clothing,11292,3229.51,3
+ORD1396,22-07-2024,West,Bluetooth Speaker,Electronics,6030,488.43,5
+ORD1348,24-11-2024,Central,Bookshelf,Furniture,47492,8263.61,4
+ORD1672,04-02-2024,North,Pen Set,Stationery,2277,705.87,9
+ORD1265,28-02-2024,Central,Mixer Grinder,Appliances,19448,2625.48,4
+ORD1397,17-10-2024,Central,Headphones,Electronics,18786,2348.25,6
+ORD1075,22-05-2024,East,Iron,Appliances,21933,3684.74,9
+ORD1560,05-01-2024,Central,Iron,Appliances,7806,1053.81,3
+ORD1761,28-01-2024,South,Highlighters,Stationery,1098,387.59,6
+ORD1884,21-09-2024,South,Water Purifier,Appliances,51129,5317.42,3
+ORD1474,12-03-2024,North,Mixer Grinder,Appliances,14634,1609.74,6
+ORD1100,03-10-2024,North,Smartwatch,Electronics,15864,1871.95,3
+ORD1342,29-01-2024,North,Mixer Grinder,Appliances,13473,1562.87,3
+ORD1003,17-02-2024,South,Study Table,Furniture,124767,15346.34,9
+ORD1355,06-05-2024,South,Headphones,Electronics,3177,555.97,1
+ORD1517,15-04-2024,East,Sneakers,Clothing,4666,1446.46,2
+ORD1869,01-12-2024,South,Jeans,Clothing,14844,3295.37,6
+ORD1864,23-12-2024,Central,Sticky Notes,Stationery,324,115.99,4
+ORD1073,28-06-2024,East,Formal Shirt,Clothing,4224,654.72,4
+ORD1693,12-12-2024,South,Bookshelf,Furniture,76363,9392.65,7
+ORD1211,08-11-2024,South,Iron,Appliances,5402,1031.78,2
+ORD1745,26-03-2024,North,Smartwatch,Electronics,4111,369.99,1
+ORD1203,08-03-2024,North,Sofa,Furniture,253380,36233.34,6
+ORD1442,12-07-2024,Central,Water Purifier,Appliances,7192,855.85,1
+ORD1600,20-07-2024,North,Air Fryer,Appliances,45200,6463.6,10
+ORD1580,12-05-2024,South,Notebook,Stationery,375,133.5,3
+ORD1005,04-01-2024,South,Jeans,Clothing,15351,3162.31,7
+ORD1409,23-04-2024,South,Smartwatch,Electronics,32072,4009.0,8
+ORD1208,21-07-2024,North,Bookshelf,Furniture,40716,7288.16,9
+ORD1247,16-10-2024,West,Tablet,Electronics,42027,3740.4,3
+ORD1141,08-09-2024,North,Laptop,Electronics,536340,68115.18,10
+ORD1459,11-11-2024,West,T-Shirt,Clothing,2656,401.06,8
+ORD1134,05-08-2024,Central,Bed Frame,Furniture,198186,35475.29,6
+ORD1637,10-03-2024,South,Jacket,Clothing,31101,8646.08,7
+ORD1053,02-08-2024,Central,Air Fryer,Appliances,78147,15082.37,9
+ORD1385,13-10-2024,East,Sofa,Furniture,105166,21874.53,2
+ORD1525,21-12-2024,South,Microwave Oven,Appliances,39066,5039.51,3
+ORD1410,06-11-2024,East,Sticky Notes,Stationery,720,252.72,9
+ORD1085,01-01-2024,East,Sofa,Furniture,172692,38337.62,4
+ORD1654,18-06-2024,South,Office Chair,Furniture,100954,19383.17,7
+ORD1121,04-12-2024,East,Tablet,Electronics,309258,25049.9,9
+ORD1561,19-04-2024,South,Sticky Notes,Stationery,760,282.72,10
+ORD1359,20-07-2024,Central,Highlighters,Stationery,380,120.46,4
+ORD1592,04-06-2024,Central,Study Table,Furniture,80264,15812.01,8
+ORD1178,16-08-2024,Central,File Folder,Stationery,402,124.62,6
+ORD1088,20-09-2024,Central,Bed Frame,Furniture,73636,17967.18,2
+ORD1335,21-03-2024,South,Formal Shirt,Clothing,9846,1919.97,6
+ORD1596,06-06-2024,North,Office Chair,Furniture,62118,10870.65,9
+ORD1594,18-03-2024,North,Sticky Notes,Stationery,49,15.09,1
+ORD1624,23-05-2024,North,Formal Shirt,Clothing,13472,2977.31,8
+ORD1777,17-12-2024,East,T-Shirt,Clothing,1992,499.99,3
+ORD1014,22-04-2024,East,Sneakers,Clothing,3376,1060.06,1
+ORD1190,10-07-2024,West,Smartwatch,Electronics,40808,4937.77,4
+ORD1225,28-10-2024,East,Laptop,Electronics,157173,13359.71,3
+ORD1281,25-10-2024,South,Notebook,Stationery,565,192.1,5
+ORD1490,10-04-2024,West,Headphones,Electronics,9885,800.69,3
+ORD1662,23-01-2024,East,Highlighters,Stationery,856,209.72,8
+ORD1304,22-08-2024,North,Headphones,Electronics,45504,6097.54,8
+ORD1096,15-09-2024,West,Microwave Oven,Appliances,60856,10588.94,8
+ORD1228,10-11-2024,North,Jacket,Clothing,21915,5303.43,9
+ORD1403,08-12-2024,North,Bluetooth Speaker,Electronics,14433,1616.5,3
+ORD1060,23-02-2024,South,Bookshelf,Furniture,8506,1845.8,2
+ORD1330,14-01-2024,South,File Folder,Stationery,666,255.08,9
+ORD1113,29-11-2024,North,Sneakers,Clothing,3525,669.75,1
+ORD1038,19-10-2024,Central,File Folder,Stationery,500,147.5,4
+ORD1684,27-07-2024,West,Sneakers,Clothing,41067,12895.04,9
+ORD1632,22-04-2024,North,Mixer Grinder,Appliances,16040,2133.32,8
+ORD1597,31-01-2024,South,Jeans,Clothing,5905,938.89,5
+ORD1238,09-07-2024,South,Microwave Oven,Appliances,14608,2863.17,1
+ORD1220,19-06-2024,South,Smartwatch,Electronics,48620,4229.94,10
+ORD1657,03-07-2024,North,Sticky Notes,Stationery,114,41.61,2
+ORD1526,05-04-2024,East,Highlighters,Stationery,530,197.69,10
+ORD1843,28-11-2024,East,Headphones,Electronics,53910,8787.33,9
+ORD1786,16-12-2024,East,Microwave Oven,Appliances,5212,906.89,1
+ORD1631,30-03-2024,West,Smartphone,Electronics,27362,2818.29,2
+ORD1153,29-04-2024,East,Formal Shirt,Clothing,19540,6076.94,10
+ORD1301,10-02-2024,North,Bookshelf,Furniture,19796,3781.04,4
+ORD1412,27-09-2024,East,Tablet,Electronics,193530,16643.58,10
+ORD1298,16-07-2024,North,Notebook,Stationery,132,34.85,4
+ORD1090,05-05-2024,West,Water Purifier,Appliances,26922,3796.0,2
+ORD1542,13-06-2024,South,Sneakers,Clothing,38563,6864.21,7
+ORD1109,10-03-2024,West,Bluetooth Speaker,Electronics,3031,357.66,1
+ORD1747,08-11-2024,West,Sneakers,Clothing,10416,3364.37,6
+ORD1340,18-08-2024,West,T-Shirt,Clothing,9045,1591.92,9
+ORD1717,15-02-2024,South,Water Purifier,Appliances,114653,16395.38,7
+ORD1829,18-06-2024,West,Highlighters,Stationery,1048,372.04,8
+ORD1148,05-06-2024,Central,Water Purifier,Appliances,15988,3133.65,1
+ORD1176,31-07-2024,East,Formal Shirt,Clothing,10323,3241.42,9
+ORD1601,07-03-2024,South,Sofa,Furniture,178220,42772.8,5
+ORD1692,26-01-2024,South,Air Fryer,Appliances,28504,4703.16,4
+ORD1447,28-11-2024,East,Sofa,Furniture,192845,36062.01,5
+ORD1069,13-10-2024,West,Water Purifier,Appliances,29634,5511.92,3
+ORD1019,23-07-2024,East,Study Table,Furniture,37044,6816.1,3
+ORD1063,27-01-2024,North,Iron,Appliances,13531,1407.22,7
+ORD1064,19-06-2024,South,Iron,Appliances,7305,1271.07,5
+ORD1524,21-10-2024,West,Sticky Notes,Stationery,246,80.44,3
+ORD1418,02-01-2024,South,Air Fryer,Appliances,8484,1204.73,2
+ORD1699,07-11-2024,East,Sofa,Furniture,93142,11922.18,2
+ORD1648,21-02-2024,West,Formal Shirt,Clothing,19330,5837.66,10
+ORD1245,02-12-2024,East,Laptop,Electronics,158727,23809.05,3
+ORD1147,13-07-2024,West,Highlighters,Stationery,950,378.1,5
+ORD1440,04-05-2024,East,Office Chair,Furniture,81570,10604.1,6
+ORD1839,01-04-2024,Central,Air Fryer,Appliances,34263,6647.02,3
+ORD1588,12-06-2024,East,Tablet,Electronics,364320,33517.44,10
+ORD1451,23-10-2024,West,Sofa,Furniture,83571,13622.07,3
+ORD1144,18-11-2024,North,Smartwatch,Electronics,44367,6033.91,3
+ORD1354,24-02-2024,East,Study Table,Furniture,48056,7448.68,8
+ORD1762,03-11-2024,West,Jeans,Clothing,15918,2753.81,6
+ORD1326,18-01-2024,South,Tablet,Electronics,144028,16707.25,4
+ORD1034,25-04-2024,North,Bed Frame,Furniture,29277,5621.18,1
+ORD1727,30-12-2024,North,Pen Set,Stationery,1615,524.88,5
+ORD1700,21-05-2024,East,Bookshelf,Furniture,36975,5324.4,5
+ORD1305,19-11-2024,Central,Air Fryer,Appliances,23408,3019.63,4
+ORD1535,14-02-2024,West,Headphones,Electronics,10076,1622.24,4
+ORD1872,22-07-2024,South,Sticky Notes,Stationery,819,242.42,9
+ORD1550,23-08-2024,North,Headphones,Electronics,13245,1668.87,3
+ORD1505,20-02-2024,East,Study Table,Furniture,146124,27325.19,9
+ORD1732,23-02-2024,Central,Jacket,Clothing,16820,3481.74,10
+ORD1697,21-04-2024,West,Sofa,Furniture,502812,86483.66,9
+ORD1244,14-11-2024,Central,T-Shirt,Clothing,3177,864.14,9
+ORD1043,08-02-2024,West,Formal Shirt,Clothing,7200,1152.0,9
+ORD1577,20-08-2024,Central,Water Purifier,Appliances,11067,1848.19,1
+ORD1068,21-01-2024,East,Office Chair,Furniture,55708,7409.16,4
+ORD1076,01-10-2024,East,Laptop,Electronics,104236,10215.13,2
+ORD1510,21-08-2024,South,Mixer Grinder,Appliances,38824,5745.95,8
+ORD1790,08-02-2024,South,Bluetooth Speaker,Electronics,16893,1993.37,9
+ORD1222,16-03-2024,Central,Laptop,Electronics,222410,39811.39,5
+ORD1275,31-08-2024,Central,Smartwatch,Electronics,8881,799.29,1
+ORD1047,11-10-2024,West,Smartwatch,Electronics,25444,2595.29,4
+ORD1110,18-04-2024,West,Bed Frame,Furniture,209658,49059.97,6
+ORD1229,16-01-2024,North,File Folder,Stationery,553,186.36,7
+ORD1202,26-11-2024,North,Sofa,Furniture,137488,26810.16,8
+ORD1438,25-04-2024,East,Jeans,Clothing,8088,2693.3,3
+ORD1473,17-10-2024,West,T-Shirt,Clothing,8811,2000.1,9
+ORD1558,22-02-2024,North,Bed Frame,Furniture,233208,37080.07,6
+ORD1753,12-10-2024,Central,Smartphone,Electronics,52165,9024.55,1
+ORD1698,22-02-2024,North,Mixer Grinder,Appliances,39594,6533.01,6
+ORD1077,15-05-2024,North,Headphones,Electronics,43590,5012.85,10
+ORD1870,20-03-2024,West,Iron,Appliances,18380,2315.88,10
+ORD1164,27-05-2024,West,Sneakers,Clothing,16200,3904.2,9
+ORD1528,14-10-2024,Central,Iron,Appliances,19800,3326.4,8
+ORD1478,09-08-2024,South,T-Shirt,Clothing,10780,1800.26,10
+ORD1157,04-06-2024,West,Bookshelf,Furniture,102123,18790.63,9
+ORD1028,04-07-2024,East,Study Table,Furniture,7946,1859.36,1
+ORD1295,12-02-2024,South,Bookshelf,Furniture,87280,12131.92,8
+ORD1006,20-04-2024,East,Headphones,Electronics,7824,704.16,2
+ORD1117,24-03-2024,East,Headphones,Electronics,10100,1747.3,10
+ORD1539,29-05-2024,East,Air Fryer,Appliances,59640,11868.36,5
+ORD1701,21-09-2024,South,Smartphone,Electronics,364820,53263.72,10
+ORD1610,22-02-2024,South,Headphones,Electronics,1305,212.72,1
+ORD1807,23-02-2024,South,Microwave Oven,Appliances,43267,7571.72,7
+ORD1556,15-08-2024,North,Laptop,Electronics,531300,48879.6,6
+ORD1029,10-02-2024,North,Jacket,Clothing,36336,5959.1,8
+ORD1460,09-10-2024,West,Laptop,Electronics,69695,10593.64,1
+ORD1196,03-06-2024,South,Pen Set,Stationery,832,205.5,8
+ORD1392,11-03-2024,North,Microwave Oven,Appliances,34998,5774.67,3
+ORD1310,09-01-2024,East,Formal Shirt,Clothing,2612,517.18,2
+ORD1776,10-10-2024,South,Office Chair,Furniture,52904,11268.55,4
+ORD1386,13-07-2024,West,Notebook,Stationery,201,41.81,3
+ORD1250,01-11-2024,North,Smartphone,Electronics,60948,9446.94,3
+ORD1089,30-04-2024,East,Study Table,Furniture,25656,3155.69,4
+ORD1248,28-09-2024,South,Pen Set,Stationery,1974,529.03,7
+ORD1361,30-11-2024,West,Sofa,Furniture,139815,32157.45,9
+ORD1417,10-12-2024,East,Jacket,Clothing,2821,567.02,1
+ORD1112,03-10-2024,North,Notebook,Stationery,452,96.73,4
+ORD1604,25-03-2024,West,Highlighters,Stationery,864,193.54,6
+ORD1205,25-03-2024,East,File Folder,Stationery,600,224.4,5
+ORD1848,27-04-2024,North,Mixer Grinder,Appliances,18660,2145.9,5
+ORD1048,30-01-2024,Central,Jacket,Clothing,13041,3912.3,9
+ORD1505,20-02-2024,East,Study Table,Furniture,146124,,9
+ORD1491,21-07-2024,East,Water Purifier,Appliances,134211,24963.25,7
+ORD1120,02-03-2024,Central,Formal Shirt,Clothing,1311,336.93,1
+ORD1394,26-11-2024,North,Sneakers,Clothing,6804,1748.63,2
+ORD1773,07-11-2024,South,Bookshelf,Furniture,56819,13977.47,7
+ORD1437,11-07-2024,South,Sneakers,Clothing,48411,9585.38,9
+ORD1136,02-03-2024,Central,Sneakers,Clothing,9207,1776.95,3
+ORD1639,24-04-2024,Central,Bluetooth Speaker,Electronics,23891,3655.32,7
+ORD1323,29-06-2024,Central,Sticky Notes,Stationery,135,29.02,5
+ORD1183,13-08-2024,North,Mixer Grinder,Appliances,17000,2924.0,8
+ORD1236,06-12-2024,East,Notebook,Stationery,351,135.13,3
+ORD1627,22-04-2024,Central,Formal Shirt,Clothing,9282,3128.03,7
+ORD1841,08-07-2024,South,Smartphone,Electronics,175760,30054.96,4
+ORD1509,13-02-2024,North,Jacket,Clothing,7878,1670.14,3
+ORD1358,27-08-2024,West,Sofa,Furniture,132144,17443.01,8
+ORD1521,12-11-2024,South,T-Shirt,Clothing,2365,671.66,5
+ORD1285,19-04-2024,East,Sneakers,Clothing,24576,4792.32,8
+ORD1262,04-07-2024,North,Sticky Notes,Stationery,102,29.27,2
+ORD1284,04-08-2024,Central,Notebook,Stationery,76,19.91,1
+ORD1142,13-08-2024,East,Bluetooth Speaker,Electronics,2968,516.43,1
+ORD1012,25-12-2024,North,Water Purifier,Appliances,44253,7655.77,3
+ORD1416,19-09-2024,West,Highlighters,Stationery,540,168.48,10
+ORD1609,19-08-2024,Central,Jacket,Clothing,20007,3381.18,9
+ORD1436,25-09-2024,East,Jeans,Clothing,17304,3114.72,7
+ORD1860,16-12-2024,West,Smartwatch,Electronics,30770,3015.46,10
+ORD1004,11-04-2024,Central,Sticky Notes,Stationery,308,97.94,4
+ORD1613,08-02-2024,North,Tablet,Electronics,164240,26442.64,4
+ORD1070,31-03-2024,West,Laptop,Electronics,249813,42967.84,3
+ORD1658,16-11-2024,Central,File Folder,Stationery,148,30.34,4
+ORD1616,15-12-2024,West,Bluetooth Speaker,Electronics,15948,2727.11,6
+ORD1566,17-09-2024,South,Jacket,Clothing,16870,4706.73,7
+ORD1146,06-11-2024,Central,Formal Shirt,Clothing,10620,3239.1,10
+ORD1018,14-10-2024,Central,Bookshelf,Furniture,95190,22560.03,10
+ORD1501,30-09-2024,Central,Jeans,Clothing,6650,2048.2,7
+ORD1565,25-05-2024,North,T-Shirt,Clothing,3600,914.4,5
+ORD1230,08-09-2024,West,Tablet,Electronics,66218,9336.74,2
+ORD1232,14-07-2024,Central,Mixer Grinder,Appliances,28580,4315.58,5
+ORD1769,15-09-2024,South,File Folder,Stationery,92,31.92,1
+ORD1131,03-05-2024,West,Iron,Appliances,21080,3773.32,8
+ORD1362,08-08-2024,South,Bookshelf,Furniture,54636,9178.85,6
+ORD1799,12-11-2024,Central,File Folder,Stationery,1170,409.5,9
+ORD1752,07-05-2024,West,Notebook,Stationery,343,126.22,7
+ORD1280,16-07-2024,East,Bookshelf,Furniture,49630,8089.69,10
+ORD1770,10-10-2024,West,Air Fryer,Appliances,94624,16843.07,8
+ORD1503,02-12-2024,East,Bluetooth Speaker,Electronics,,1716.32,10
+ORD1312,29-06-2024,Central,Bed Frame,Furniture,111630,24670.23,3
+ORD1470,16-12-2024,East,Microwave Oven,Appliances,55390,6536.02,10
+ORD1835,03-10-2024,West,Iron,Appliances,6894,958.27,3
+ORD1532,28-02-2024,East,Sneakers,Clothing,40545,10460.61,9
+ORD1212,03-06-2024,West,Headphones,Electronics,3513,614.77,3
+ORD1622,05-09-2024,East,Air Fryer,Appliances,78921,10970.02,9
+ORD1167,06-04-2024,Central,Notebook,Stationery,1260,378.0,10
+ORD1373,10-12-2024,North,Sticky Notes,Stationery,590,211.81,10
+ORD1544,20-11-2024,North,Pen Set,Stationery,1728,585.79,9
+ORD1856,29-07-2024,Central,Smartwatch,Electronics,149420,23458.94,10
+ORD1227,04-07-2024,Central,Air Fryer,Appliances,21810,3271.5,2
+ORD1845,12-07-2024,East,Air Fryer,Appliances,23930,2991.25,2
+ORD1886,29-06-2024,West,Pen Set,Stationery,1520,462.08,10
+ORD1796,23-09-2024,North,Formal Shirt,Clothing,8334,1941.82,9
+ORD1783,14-04-2024,Central,Smartphone,Electronics,237966,21416.94,6
+ORD1173,29-05-2024,Central,Jeans,Clothing,12505,3964.09,5
+ORD1259,23-08-2024,North,Bed Frame,Furniture,240660,46928.7,10
+ORD1206,28-02-2024,West,Tablet,Electronics,80355,13338.93,3
+ORD1513,25-03-2024,South,Mixer Grinder,Appliances,19563,2269.31,3
+ORD1614,17-02-2024,East,Headphones,Electronics,4576,388.96,1
+ORD1849,21-03-2024,East,Water Purifier,Appliances,33662,4140.43,2
+ORD1822,28-01-2024,Central,Highlighters,Stationery,522,134.68,9
+ORD1219,03-03-2024,West,Tablet,Electronics,53596,4555.66,4
+ORD1341,09-10-2024,Central,Bluetooth Speaker,Electronics,13332,1733.16,3
+ORD1774,19-08-2024,South,Smartwatch,Electronics,79597,11939.55,7
+ORD1729,29-02-2024,West,Highlighters,Stationery,497,153.57,7
+ORD1787,13-04-2024,Central,Sneakers,Clothing,26776,8889.63,8
+ORD1184,28-07-2024,South,Tablet,Electronics,234944,26783.62,8
+ORD1296,11-08-2024,North,Study Table,Furniture,147944,24410.76,8
+ORD1846,24-04-2024,Central,Pen Set,Stationery,1356,402.73,6
+ORD1585,17-09-2024,North,Smartphone,Electronics,26026,2212.21,1
+ORD1663,17-05-2024,Central,Smartphone,Electronics,177894,26684.1,3
+ORD1419,24-12-2024,North,Microwave Oven,Appliances,6130,1219.87,1
+ORD1390,02-05-2024,South,Smartphone,Electronics,223101,32126.54,9
+ORD1384,26-12-2024,South,Jeans,Clothing,16784,4128.86,8
+ORD1421,24-11-2024,West,Notebook,Stationery,609,227.77,7
+ORD1797,01-10-2024,West,Tablet,Electronics,158976,26707.97,6
+ORD1321,13-06-2024,North,Tablet,Electronics,188250,20895.75,6
+ORD1644,12-06-2024,South,Iron,Appliances,4350,630.75,2
+ORD1128,03-04-2024,West,Office Chair,Furniture,96426,14849.6,6
+ORD1559,14-07-2024,South,Iron,Appliances,3240,495.72,3
+ORD1866,10-05-2024,West,Sneakers,Clothing,8744,1810.01,4
+ORD1452,13-07-2024,Central,Study Table,Furniture,104168,21354.44,8
+ORD1714,22-08-2024,South,Bed Frame,Furniture,106572,13960.93,3
+ORD1529,31-07-2024,West,File Folder,Stationery,105,32.87,3
+ORD1598,28-04-2024,Central,Sticky Notes,Stationery,468,184.86,6
+ORD1119,17-11-2024,South,Headphones,Electronics,38825,5746.1,5
+ORD1765,25-03-2024,West,Smartwatch,Electronics,22764,2390.22,7
+ORD1052,18-10-2024,South,Air Fryer,Appliances,41510,6724.62,10
+ORD1465,22-12-2024,South,Sofa,Furniture,115686,28805.81,2
+ORD1365,23-05-2024,Central,T-Shirt,Clothing,5430,955.68,10
+ORD1111,22-05-2024,West,Bookshelf,Furniture,20410,2510.43,2
+ORD1040,04-08-2024,West,Highlighters,Stationery,65,13.78,1
+ORD1626,16-05-2024,Central,Formal Shirt,Clothing,2164,755.24,1
+ORD1650,12-06-2024,East,Headphones,Electronics,7200,698.4,2
+ORD1496,15-10-2024,South,Air Fryer,Appliances,58023,9747.86,9
+ORD1819,13-02-2024,East,Office Chair,Furniture,38814,6753.64,6
+ORD1271,29-06-2024,Central,Tablet,Electronics,211300,26412.5,5
+ORD1137,04-09-2024,East,Jacket,Clothing,43130,10998.15,10
+ORD1688,03-07-2024,South,Bookshelf,Furniture,60630,11277.18,6
+ORD1720,03-01-2024,South,Study Table,Furniture,54678,7490.89,6
+ORD1363,24-07-2024,North,Air Fryer,Appliances,60201,8187.34,9
+ORD1740,29-02-2024,North,Sneakers,Clothing,1579,505.28,1
+ORD1759,08-10-2024,North,Tablet,Electronics,319620,54015.78,10
+ORD1213,04-06-2024,West,Headphones,Electronics,5446,920.37,2
+ORD1815,04-12-2024,North,File Folder,Stationery,279,68.08,3
+ORD1286,11-03-2024,South,Tablet,Electronics,93140,12201.34,5
+ORD1879,03-11-2024,West,Tablet,Electronics,58482,5965.16,2
+ORD1032,19-12-2024,South,Jeans,Clothing,12170,4247.33,5
+ORD1328,08-07-2024,East,Highlighters,Stationery,372,84.82,2
+ORD1490,10-04-2024,West,Headphones,Electronics,,800.69,3
+ORD1240,06-12-2024,West,Jacket,Clothing,2378,642.06,1
+ORD1801,24-11-2024,Central,Water Purifier,Appliances,26612,4470.82,4
+ORD1427,04-12-2024,West,Water Purifier,Appliances,9943,1203.1,1
+ORD1252,14-08-2024,West,Bookshelf,Furniture,43576,5882.76,4
+ORD1336,12-04-2024,South,Study Table,Furniture,35440,5918.48,8
+ORD1737,16-02-2024,Central,Tablet,Electronics,57540,8285.76,2
+ORD1007,25-06-2024,Central,Bookshelf,Furniture,10027,1905.13,1
+ORD1037,22-05-2024,West,Office Chair,Furniture,46503,9951.64,9
+ORD1368,24-01-2024,North,Smartwatch,Electronics,88032,11180.06,6
+ORD1683,17-05-2024,West,Water Purifier,Appliances,18158,2614.75,2
+ORD1635,13-03-2024,North,Mixer Grinder,Appliances,15564,2132.27,6
+ORD1503,02-12-2024,East,Bluetooth Speaker,Electronics,12620,1716.32,10
+ORD1026,19-03-2024,East,Sneakers,Clothing,17754,6054.11,3
+ORD1132,17-02-2024,East,Study Table,Furniture,107338,16315.38,7
+ORD1303,03-03-2024,North,Study Table,Furniture,101276,22584.55,7
+ORD1816,19-07-2024,Central,Sofa,Furniture,103599,21548.59,3
+ORD1660,22-07-2024,West,File Folder,Stationery,180,59.04,5
+ORD1702,14-12-2024,South,Jacket,Clothing,3884,967.12,1
+ORD1251,26-01-2024,North,Bookshelf,Furniture,75576,13830.41,8
+ORD1337,20-10-2024,East,Highlighters,Stationery,657,211.55,9
+ORD1514,13-10-2024,West,Highlighters,Stationery,572,186.47,4
+ORD1429,25-01-2024,South,Jacket,Clothing,2847,677.59,1
+ORD1704,25-10-2024,Central,Office Chair,Furniture,89418,19046.03,6
+ORD1293,12-04-2024,Central,Smartwatch,Electronics,11770,1694.88,5
+ORD1710,01-03-2024,West,Smartphone,Electronics,480310,83573.94,10
+ORD1625,26-10-2024,South,Bluetooth Speaker,Electronics,5860,855.56,2
+ORD1830,06-09-2024,Central,Headphones,Electronics,18264,2575.22,3
+ORD1808,19-03-2024,North,Highlighters,Stationery,294,64.09,6
+ORD1055,26-11-2024,East,Highlighters,Stationery,348,70.3,6
+ORD1081,18-06-2024,Central,Bed Frame,Furniture,67168,15918.82,2
+ORD1017,25-11-2024,West,Smartwatch,Electronics,18935,1988.17,5
+ORD1659,28-03-2024,East,Tablet,Electronics,156552,17377.27,8
+ORD1546,17-02-2024,West,Iron,Appliances,6354,1143.72,6
+ORD1067,16-03-2024,West,Smartwatch,Electronics,6550,759.8,1
+ORD1428,21-02-2024,Central,Smartphone,Electronics,393408,57830.98,8
+ORD1623,02-04-2024,North,Bed Frame,Furniture,171760,21298.24,10
+ORD1583,18-09-2024,East,Smartphone,Electronics,377208,36589.18,8
+ORD1896,21-09-2024,Central,Laptop,Electronics,256345,27941.6,5
+ORD1268,17-11-2024,West,Highlighters,Stationery,1880,545.2,10
+ORD1050,28-09-2024,South,Smartphone,Electronics,137250,22646.25,9
+ORD1057,15-05-2024,South,Notebook,Stationery,284,70.72,2
+ORD1486,13-10-2024,South,Air Fryer,Appliances,56502,9548.84,9
+ORD1852,30-10-2024,South,Smartwatch,Electronics,19278,3257.98,9
+ORD1210,29-04-2024,West,Laptop,Electronics,717920,81124.96,10
+ORD1779,25-10-2024,Central,T-Shirt,Clothing,9751,2018.46,7
+ORD1145,04-06-2024,North,Study Table,Furniture,26286,5756.63,2
+ORD1314,22-08-2024,North,Sofa,Furniture,71480,15940.04,4
+ORD1079,22-10-2024,South,Bookshelf,Furniture,9644,1157.28,1
+ORD1555,01-09-2024,North,Smartwatch,Electronics,52050,6870.6,10
+ORD1393,31-08-2024,West,Iron,Appliances,7904,1043.33,4
+ORD1643,13-03-2024,East,Jacket,Clothing,4348,952.21,2
+ORD1350,03-06-2024,West,Study Table,Furniture,62111,11117.87,7
+ORD1736,07-01-2024,North,Headphones,Electronics,62800,8101.2,10
+ORD1756,08-10-2024,West,Pen Set,Stationery,360,105.12,4
+ORD1199,26-01-2024,Central,Jacket,Clothing,36888,12209.93,8
+ORD1611,23-04-2024,South,Office Chair,Furniture,63686,13310.37,7
+ORD1619,08-10-2024,West,Smartphone,Electronics,56670,6687.06,2
+ORD1338,14-02-2024,North,Sofa,Furniture,324583,61021.6,7
+ORD1603,13-04-2024,South,Sneakers,Clothing,23920,4329.52,10
+ORD1564,13-02-2024,South,Microwave Oven,Appliances,148300,25507.6,10
+ORD1543,19-11-2024,East,Iron,Appliances,16352,2371.04,7
+ORD1713,18-03-2024,South,Office Chair,Furniture,58224,14439.55,6
+ORD1492,13-08-2024,East,Sticky Notes,Stationery,370,96.2,10
+ORD1570,29-03-2024,West,Sneakers,Clothing,3272,873.62,2
+ORD1638,06-09-2024,East,Bluetooth Speaker,Electronics,53343,8481.54,9
+ORD1439,14-10-2024,West,Sticky Notes,Stationery,783,177.74,9
+ORD1695,05-01-2024,South,Bookshelf,Furniture,75040,15983.52,10
+ORD1551,07-08-2024,South,Jeans,Clothing,6108,1111.66,3
+ORD1689,21-11-2024,North,T-Shirt,Clothing,795,178.08,1
+ORD1095,13-10-2024,Central,Bed Frame,Furniture,240600,54375.6,8
+ORD1376,25-09-2024,Central,Sneakers,Clothing,18970,5956.58,7
+ORD1518,01-10-2024,South,Notebook,Stationery,330,96.36,6
+ORD1568,31-10-2024,North,Mixer Grinder,Appliances,4958,956.89,1
+ORD1327,17-10-2024,North,Water Purifier,Appliances,51375,7449.37,3
+ORD1398,24-11-2024,Central,Mixer Grinder,Appliances,24792,4586.52,8
+ORD1681,08-06-2024,East,File Folder,Stationery,298,111.45,2
+ORD1629,23-12-2024,East,Air Fryer,Appliances,9261,1805.89,1
+ORD1188,10-08-2024,North,Sneakers,Clothing,10268,1879.04,2
+ORD1767,07-04-2024,East,Headphones,Electronics,8260,1428.98,7
+ORD1723,21-06-2024,West,T-Shirt,Clothing,3003,1048.05,3
+ORD1420,29-08-2024,North,Sofa,Furniture,187565,41264.3,7
+ORD1152,28-04-2024,East,Jeans,Clothing,13295,2180.38,5
+ORD1231,03-02-2024,South,Bookshelf,Furniture,114840,24460.92,10
+ORD1080,02-10-2024,South,Notebook,Stationery,266,103.74,7
+ORD1272,30-01-2024,East,Sofa,Furniture,114496,26563.07,2
+ORD1719,10-07-2024,North,Bed Frame,Furniture,146196,17835.91,9
+ORD1165,10-06-2024,East,Bed Frame,Furniture,70628,12218.64,2
+ORD1282,19-07-2024,South,Water Purifier,Appliances,22144,3454.46,2
+ORD1480,17-05-2024,South,Pen Set,Stationery,747,196.46,3
+ORD1332,09-11-2024,East,Jeans,Clothing,12952,2266.6,8
+ORD1357,22-10-2024,East,Office Chair,Furniture,33489,8338.76,3
+ORD1634,14-06-2024,North,Laptop,Electronics,220332,33049.8,3
+ORD1195,25-06-2024,Central,Sofa,Furniture,219730,39331.67,7
+ORD1502,03-07-2024,Central,Water Purifier,Appliances,15582,2758.01,2
+ORD1302,07-11-2024,Central,Sticky Notes,Stationery,112,27.78,2
+ORD1617,20-05-2024,East,Highlighters,Stationery,144,46.51,3
+ORD1497,08-10-2024,North,Jacket,Clothing,32808,6299.14,8
+ORD1041,22-06-2024,North,Study Table,Furniture,28464,5408.16,4
+ORD1812,04-01-2024,Central,Tablet,Electronics,149820,22473.0,10
+ORD1853,16-03-2024,North,Bluetooth Speaker,Electronics,11870,1566.84,5
+ORD1367,14-03-2024,South,Water Purifier,Appliances,113184,16977.6,9
+ORD1387,31-12-2024,North,Notebook,Stationery,904,226.9,8
+ORD1022,27-09-2024,East,Microwave Oven,Appliances,6876,1155.17,1
+ORD1198,03-12-2024,West,Bookshelf,Furniture,11772,2731.1,1
+ORD1450,23-04-2024,South,Laptop,Electronics,356305,61640.76,5
+ORD1694,15-12-2024,North,File Folder,Stationery,321,75.44,3
+ORD1775,19-09-2024,East,Jeans,Clothing,18765,5479.38,9
+ORD1615,20-10-2024,West,Jacket,Clothing,22624,3529.34,7
+ORD1806,04-01-2024,North,Office Chair,Furniture,68684,14354.96,4
+ORD1618,11-11-2024,South,Iron,Appliances,14215,2004.31,5
+ORD1110,18-04-2024,West,Bed Frame,Furniture,209658,49059.97,6
+ORD1158,11-02-2024,Central,Smartphone,Electronics,406966,45580.19,7
+ORD1365,23-05-2024,Central,T-Shirt,Clothing,5430,955.68,10
+ORD1722,24-01-2024,East,Sofa,Furniture,392776,77769.65,8
+ORD1836,28-10-2024,East,Smartwatch,Electronics,77680,10176.08,8
+ORD1347,05-11-2024,East,Air Fryer,Appliances,3964,428.11,1
+ORD1094,03-03-2024,West,Smartwatch,Electronics,99496,13232.97,8
+ORD1854,26-07-2024,Central,Air Fryer,Appliances,8144,1588.08,1
+ORD1162,08-09-2024,North,File Folder,Stationery,462,123.35,6
+ORD1587,31-12-2024,West,Study Table,Furniture,48402,8421.95,6
+ORD1802,13-06-2024,West,Formal Shirt,Clothing,2780,558.78,2
+ORD1605,02-07-2024,South,Highlighters,Stationery,790,199.87,5
+ORD1159,08-05-2024,North,Tablet,Electronics,53436,9618.48,4
+ORD1487,27-03-2024,South,Bookshelf,Furniture,34485,6345.24,5
+ORD1572,22-07-2024,Central,Sofa,Furniture,380025,66504.38,9
+ORD1670,04-08-2024,North,T-Shirt,Clothing,4991,1741.86,7
+ORD1249,08-07-2024,East,Jacket,Clothing,26286,8884.67,6
+ORD1406,30-11-2024,East,Jeans,Clothing,4216,1197.34,4
+ORD1123,23-08-2024,South,Sticky Notes,Stationery,258,101.39,3
+ORD1283,25-11-2024,East,Smartwatch,Electronics,27279,3955.45,9
+ORD1760,14-10-2024,South,Iron,Appliances,17568,2389.25,8
+ORD1667,31-08-2024,East,Tablet,Electronics,99925,12990.25,7
+ORD1803,24-05-2024,North,Mixer Grinder,Appliances,37278,6710.04,6
+ORD1445,01-03-2024,West,Study Table,Furniture,155300,22829.1,10
+ORD1868,04-01-2024,Central,Mixer Grinder,Appliances,12514,1263.91,2
+ORD1116,07-07-2024,South,Water Purifier,Appliances,182540,31396.88,10
+ORD1224,14-01-2024,South,Laptop,Electronics,520632,82780.49,6
+ORD1054,14-04-2024,East,Study Table,Furniture,52420,7181.54,5
+ORD1825,05-02-2024,South,Bed Frame,Furniture,198128,32294.86,8
+ORD1842,03-07-2024,West,File Folder,Stationery,1096,229.06,8
+ORD1306,01-01-2024,Central,Notebook,Stationery,412,116.6,4
+ORD1493,04-11-2024,South,File Folder,Stationery,282,110.83,6
+ORD1260,29-12-2024,West,Sofa,Furniture,83088,10219.82,2
+ORD1126,14-02-2024,East,Highlighters,Stationery,632,198.45,4
+ORD1579,06-01-2024,South,File Folder,Stationery,546,165.44,6
+ORD1563,28-06-2024,West,Bed Frame,Furniture,54357,8479.69,3
+ORD1044,03-10-2024,North,Tablet,Electronics,91596,11083.12,4
+ORD1163,09-12-2024,North,Bluetooth Speaker,Electronics,25632,3819.17,6
+ORD1331,01-03-2024,East,Sneakers,Clothing,25775,4974.57,5
+ORD1607,16-06-2024,South,Tablet,Electronics,141252,16950.24,4
+ORD1399,27-08-2024,East,Office Chair,Furniture,16834,2373.59,2
+ORD1744,16-07-2024,West,Formal Shirt,Clothing,13496,4413.19,7
+ORD1214,10-03-2024,West,Highlighters,Stationery,1068,303.31,6
+ORD1828,23-04-2024,West,Bookshelf,Furniture,28200,5865.6,6
+ORD1097,31-08-2024,West,Bookshelf,Furniture,28172,6197.84,4
+ORD1044,03-10-2024,North,Tablet,Electronics,91596,,4
+ORD1813,07-02-2024,East,Mixer Grinder,Appliances,8748,1565.89,2
+ORD1035,28-10-2024,South,Laptop,Electronics,162778,23277.25,2
+ORD1772,03-11-2024,Central,Bed Frame,Furniture,349929,59487.93,9
+ORD1726,18-04-2024,North,Air Fryer,Appliances,56412,6318.14,9
+ORD1395,20-01-2024,South,Sticky Notes,Stationery,72,28.73,3
+ORD1255,14-04-2024,East,Office Chair,Furniture,46560,7123.68,3
+ORD1817,27-11-2024,East,Laptop,Electronics,642393,60384.94,9
+ORD1007,25-06-2024,Central,Bookshelf,Furniture,10027,1905.13,1
+ORD1769,15-09-2024,South,File Folder,Stationery,,31.92,1
+ORD1844,14-05-2024,Central,Microwave Oven,Appliances,78480,10830.24,10
+ORD1197,19-10-2024,East,Air Fryer,Appliances,41685,4251.87,5
+ORD1186,30-09-2024,West,Bed Frame,Furniture,308688,58650.72,8
+ORD1482,18-05-2024,North,Smartwatch,Electronics,9140,1124.22,2
+ORD1557,04-08-2024,South,File Folder,Stationery,108,29.92,2
+ORD1781,28-01-2024,North,Office Chair,Furniture,76455,16973.01,5
+ORD1402,23-11-2024,West,Sticky Notes,Stationery,549,119.13,9
+ORD1273,16-02-2024,Central,Water Purifier,Appliances,110691,16160.89,9
+ORD1058,25-05-2024,South,Highlighters,Stationery,1053,339.07,9
+ORD1863,13-12-2024,West,Mixer Grinder,Appliances,35238,6589.51,7
+ORD1083,31-05-2024,Central,Smartwatch,Electronics,33552,4898.59,4
+ORD1339,28-07-2024,Central,Tablet,Electronics,98328,14159.23,3
+ORD1033,28-11-2024,East,Highlighters,Stationery,1395,312.48,9
+ORD1792,10-05-2024,North,Bed Frame,Furniture,266040,64381.68,8
+ORD1381,29-03-2024,West,Microwave Oven,Appliances,83700,11299.5,6
+ORD1891,30-05-2024,East,Headphones,Electronics,26199,4401.43,9
+ORD1320,05-08-2024,North,Sticky Notes,Stationery,430,132.87,10
+ORD1431,28-05-2024,South,Jacket,Clothing,25060,6640.9,10
+ORD1351,18-12-2024,North,Bluetooth Speaker,Electronics,34432,4407.3,8
+ORD1223,03-10-2024,East,Formal Shirt,Clothing,2475,697.95,3
+ORD1506,24-10-2024,Central,Study Table,Furniture,81032,13856.47,8
+ORD1016,17-10-2024,East,Office Chair,Furniture,75856,17826.16,8
+ORD1155,16-05-2024,South,Tablet,Electronics,22873,3636.81,1
+ORD1093,22-12-2024,Central,Highlighters,Stationery,182,45.5,1
+ORD1239,14-10-2024,East,T-Shirt,Clothing,2282,504.32,2
+ORD1674,02-08-2024,North,Sticky Notes,Stationery,114,35.68,3
+ORD1449,14-04-2024,East,Bed Frame,Furniture,80486,15533.8,7
+ORD1861,10-11-2024,Central,Smartphone,Electronics,386874,59965.47,9
+ORD1725,25-07-2024,North,Study Table,Furniture,63652,15785.7,4
+ORD1289,23-01-2024,West,Notebook,Stationery,344,110.77,4
+ORD1105,06-10-2024,Central,Study Table,Furniture,60760,9417.8,8
+ORD1191,15-12-2024,South,Bluetooth Speaker,Electronics,4638,653.96,3
+ORD1023,01-10-2024,East,Sneakers,Clothing,14478,3025.9,6
+ORD1675,25-10-2024,North,Headphones,Electronics,71860,6467.4,10
+ORD1051,05-02-2024,Central,Tablet,Electronics,153844,14153.65,4
+ORD1156,31-10-2024,Central,Sofa,Furniture,185192,33519.75,8
+ORD1020,25-01-2024,North,Smartwatch,Electronics,43431,6427.79,3
+ORD1329,06-07-2024,West,Bed Frame,Furniture,90895,22269.27,5
+ORD1640,30-05-2024,South,Bluetooth Speaker,Electronics,5592,665.45,1
+ORD1673,21-05-2024,Central,Highlighters,Stationery,199,63.28,1
+ORD1831,23-05-2024,South,Microwave Oven,Appliances,37248,6443.9,4
+ORD1464,22-07-2024,North,Notebook,Stationery,616,192.81,7
+ORD1735,07-10-2024,West,Office Chair,Furniture,67328,10099.2,8
+ORD1467,31-08-2024,North,Iron,Appliances,1501,162.11,1
+ORD1114,11-01-2024,Central,Smartwatch,Electronics,14272,1812.54,4
+ORD1297,14-01-2024,West,Smartphone,Electronics,300293,35134.28,7
+ORD1679,20-01-2024,West,Bed Frame,Furniture,46460,10081.82,4
+ORD1187,12-11-2024,North,Study Table,Furniture,38635,8383.8,5
+ORD1071,29-07-2024,South,Bookshelf,Furniture,12813,2178.21,3
+ORD1193,14-03-2024,South,Highlighters,Stationery,785,197.03,5
+ORD1686,25-09-2024,Central,Laptop,Electronics,142896,24006.53,3
+ORD1897,23-07-2024,East,Tablet,Electronics,213273,27298.94,9
+ORD1545,07-07-2024,West,File Folder,Stationery,594,118.8,6
+ORD1847,03-09-2024,Central,Laptop,Electronics,396963,49223.41,9
+ORD1712,14-07-2024,Central,Sofa,Furniture,129801,30243.63,7
+ORD1784,11-12-2024,Central,Study Table,Furniture,93339,14094.19,9
+ORD1851,23-03-2024,West,Laptop,Electronics,151308,14071.64,4
+ORD1246,07-06-2024,East,Notebook,Stationery,53,19.82,1
+ORD1641,17-10-2024,North,Bluetooth Speaker,Electronics,35060,6030.32,10
+ORD1433,04-12-2024,Central,Study Table,Furniture,62461,9743.92,7
+ORD1751,08-12-2024,East,Mixer Grinder,Appliances,25020,3577.86,9
+ORD1899,15-12-2024,South,File Folder,Stationery,220,76.34,4
+ORD1226,03-08-2024,Central,Headphones,Electronics,9402,1175.25,2
+ORD1388,02-09-2024,South,Office Chair,Furniture,66978,16141.7,9
+ORD1731,21-02-2024,Central,Bookshelf,Furniture,47470,8259.78,10
+ORD1837,22-07-2024,East,Mixer Grinder,Appliances,3956,731.86,1
+ORD1256,16-06-2024,North,Laptop,Electronics,671648,82612.7,8
+ORD1768,10-12-2024,Central,Headphones,Electronics,36368,5309.73,8
+ORD1448,11-09-2024,West,Headphones,Electronics,56312,9235.17,8
+ORD1575,19-07-2024,Central,Iron,Appliances,4140,703.8,2
+ORD1818,22-01-2024,North,Air Fryer,Appliances,99560,15332.24,10
+ORD1194,05-01-2024,West,Sofa,Furniture,228177,29663.01,9
+ORD1383,22-05-2024,Central,Sofa,Furniture,138016,30363.52,4
+ORD1711,06-02-2024,West,Office Chair,Furniture,44667,10407.41,9
+ORD1008,12-07-2024,North,Microwave Oven,Appliances,54625,8630.75,5
+ORD1237,04-02-2024,North,Tablet,Electronics,80606,7254.54,2
+ORD1705,17-12-2024,Central,Iron,Appliances,18144,2739.74,8
+ORD1300,29-08-2024,South,Sneakers,Clothing,41392,11300.02,8
+ORD1441,18-08-2024,East,Tablet,Electronics,220347,18729.5,9
+ORD1857,15-11-2024,Central,Bookshelf,Furniture,24342,5842.08,3
+ORD1307,06-12-2024,North,Mixer Grinder,Appliances,15324,2988.18,6
+ORD1489,09-02-2024,East,Bookshelf,Furniture,42492,8370.92,4
+ORD1504,26-11-2024,West,Sneakers,Clothing,30156,5156.68,6
+ORD1783,14-04-2024,Central,Smartphone,Electronics,237966,21416.94,6
+ORD1548,25-05-2024,East,Microwave Oven,Appliances,71390,11208.23,10
+ORD1481,24-02-2024,North,Laptop,Electronics,320730,37204.68,5
+ORD1793,21-01-2024,South,Bed Frame,Furniture,116660,25781.86,10
+ORD1862,17-02-2024,West,T-Shirt,Clothing,4212,1330.99,3
+ORD1140,28-01-2024,Central,Sofa,Furniture,170409,39705.3,3
+ORD1536,28-10-2024,East,Jeans,Clothing,25530,4671.99,10
+ORD1001,23-11-2024,North,Laptop,Electronics,255245,26034.99,5
+ORD1011,05-07-2024,South,Notebook,Stationery,336,112.22,6
+ORD1311,02-12-2024,North,Sneakers,Clothing,42230,7474.71,10
+ORD1734,24-09-2024,South,Notebook,Stationery,469,108.81,7
+ORD1858,01-11-2024,Central,Tablet,Electronics,147144,17510.14,4
+ORD1423,27-06-2024,North,Bluetooth Speaker,Electronics,37071,4930.44,9
+ORD1893,04-05-2024,East,Sneakers,Clothing,42192,13881.17,8
+ORD1316,05-10-2024,West,Bookshelf,Furniture,5631,884.07,1
+ORD1453,16-12-2024,East,Bookshelf,Furniture,84296,15173.28,8
+ORD1092,16-03-2024,North,Sneakers,Clothing,9964,1933.02,2
+ORD1233,08-08-2024,North,Formal Shirt,Clothing,4692,1318.45,2
+ORD1838,10-11-2024,South,Sneakers,Clothing,23841,5698.0,9
+ORD1494,12-06-2024,East,Jacket,Clothing,28464,8709.98,8
+ORD1356,11-11-2024,West,Study Table,Furniture,51984,8473.39,3
+ORD1318,23-07-2024,West,Pen Set,Stationery,870,260.13,6
+ORD1850,18-06-2024,North,File Folder,Stationery,688,166.5,8
+ORD1655,03-10-2024,East,T-Shirt,Clothing,4545,899.91,5
+ORD1788,26-12-2024,East,Sneakers,Clothing,59770,17811.46,10
+ORD1871,01-10-2024,West,Air Fryer,Appliances,48084,9568.72,6
+ORD1446,02-05-2024,Central,Bed Frame,Furniture,112365,20338.06,5
+ORD1578,02-12-2024,South,Headphones,Electronics,6599,620.31,1
+ORD1652,17-02-2024,East,Water Purifier,Appliances,139090,23645.3,10
+ORD1785,22-12-2024,East,Jeans,Clothing,2362,538.54,1
+ORD1468,10-08-2024,East,Air Fryer,Appliances,8394,1032.46,2
+ORD1612,26-11-2024,North,Air Fryer,Appliances,77400,14860.8,10
+ORD1606,02-03-2024,North,Bluetooth Speaker,Electronics,29210,2453.64,5
+ORD1182,05-03-2024,Central,Air Fryer,Appliances,30864,5771.57,6
+ORD1553,06-12-2024,South,Smartphone,Electronics,356993,39626.22,7
+ORD1139,03-06-2024,North,Jeans,Clothing,11862,2431.71,9
+ORD1766,10-04-2024,South,Headphones,Electronics,17962,2263.21,7
+ORD1743,03-04-2024,North,Pen Set,Stationery,1981,503.17,7
+ORD1279,27-01-2024,East,Tablet,Electronics,109158,14845.49,6
+ORD1554,24-12-2024,South,Sticky Notes,Stationery,64,12.8,2
+ORD1479,12-11-2024,East,Formal Shirt,Clothing,8240,1359.6,4
+ORD1832,16-11-2024,North,Jacket,Clothing,9708,1495.03,2
+ORD1123,23-08-2024,South,Sticky Notes,Stationery,258,101.39,3
+ORD1366,19-02-2024,West,Notebook,Stationery,606,235.13,6
+ORD1680,17-05-2024,East,Laptop,Electronics,531408,84493.87,6
+ORD1036,27-04-2024,North,Smartphone,Electronics,87858,11509.4,6
+ORD1030,29-09-2024,South,Smartwatch,Electronics,84056,8153.43,8
+ORD1175,02-11-2024,Central,Jacket,Clothing,14217,2331.59,3
+ORD1540,13-12-2024,North,Smartwatch,Electronics,17297,3096.16,7
+ORD1877,08-10-2024,Central,Jeans,Clothing,1458,332.42,1
+ORD1130,07-04-2024,North,Study Table,Furniture,84028,16133.38,7
+ORD1642,09-11-2024,South,Iron,Appliances,12260,2378.44,10
+ORD1454,29-06-2024,South,Smartwatch,Electronics,85500,8379.0,9
+ORD1291,28-08-2024,South,Notebook,Stationery,860,251.12,10
+ORD1254,06-06-2024,North,Study Table,Furniture,96733,12285.09,7
+ORD1874,22-10-2024,East,Sneakers,Clothing,18417,5911.86,7
+ORD1317,25-01-2024,East,Bookshelf,Furniture,17058,3019.27,2
+ORD1400,22-08-2024,East,Jeans,Clothing,2571,763.59,3
+ORD1671,17-11-2024,South,Water Purifier,Appliances,56190,10732.29,5
+ORD1087,18-09-2024,West,Formal Shirt,Clothing,5847,976.45,3
+ORD1160,10-12-2024,East,Air Fryer,Appliances,6370,936.39,1
+ORD1633,10-11-2024,South,Formal Shirt,Clothing,3891,1140.06,3
+ORD1269,16-10-2024,Central,Bed Frame,Furniture,89676,15872.65,6
+ORD1107,26-07-2024,South,Highlighters,Stationery,597,183.28,3
+ORD1086,06-11-2024,East,Highlighters,Stationery,1224,410.04,8
+ORD1537,12-03-2024,South,Office Chair,Furniture,12340,2048.44,1
+ORD1748,07-03-2024,West,File Folder,Stationery,276,77.83,2
+ORD1027,28-09-2024,North,Water Purifier,Appliances,84030,8571.06,6
+ORD1056,14-11-2024,Central,Headphones,Electronics,10408,1051.21,2
+ORD1900,15-05-2024,South,Study Table,Furniture,70716,10748.83,4
+ORD1859,25-02-2024,North,Office Chair,Furniture,153747,36591.79,9
+ORD1066,19-12-2024,South,Microwave Oven,Appliances,11049,1745.74,1
+ORD1098,23-09-2024,West,Iron,Appliances,7696,1108.22,4
+ORD1106,05-09-2024,North,Pen Set,Stationery,2352,790.27,6
+ORD1407,26-08-2024,East,Bluetooth Speaker,Electronics,35112,6039.26,7
+ORD1171,09-10-2024,North,Microwave Oven,Appliances,45689,5574.06,7
+ORD1889,06-11-2024,South,Highlighters,Stationery,1309,263.11,7
+ORD1780,04-08-2024,North,Mixer Grinder,Appliances,4414,609.13,2
+ORD1887,26-12-2024,North,Tablet,Electronics,275796,42196.79,9
+ORD1258,08-12-2024,East,Tablet,Electronics,103404,12822.1,7
+ORD1678,25-07-2024,South,Water Purifier,Appliances,171540,28990.26,10
+ORD1241,29-06-2024,North,Air Fryer,Appliances,62865,7229.48,9
+ORD1746,29-10-2024,West,Formal Shirt,Clothing,19890,4733.82,10
+ORD1129,23-05-2024,Central,Jeans,Clothing,4205,1063.87,5
+ORD1024,21-03-2024,West,Laptop,Electronics,339030,52888.68,5
+ORD1892,21-10-2024,East,Jeans,Clothing,18752,4931.78,8
+ORD1789,10-04-2024,South,Sofa,Furniture,213016,52827.97,8
+ORD1424,24-04-2024,North,Sneakers,Clothing,3944,958.39,1
+ORD1880,10-02-2024,Central,Smartphone,Electronics,253792,35784.67,7
+ORD1534,30-11-2024,South,Sofa,Furniture,44473,6848.84,1
+ORD1602,20-07-2024,East,Bed Frame,Furniture,151288,22693.2,8
+ORD1372,07-09-2024,Central,Sofa,Furniture,128720,21624.96,8
+ORD1456,08-12-2024,North,Sneakers,Clothing,4878,863.41,1
+ORD1278,09-07-2024,East,Pen Set,Stationery,1561,524.5,7
+ORD1405,16-05-2024,East,Sofa,Furniture,525440,63578.24,10
+ORD1661,17-07-2024,South,Notebook,Stationery,539,127.74,7
+ORD1620,02-08-2024,South,Iron,Appliances,16380,2669.94,9
+ORD1274,10-10-2024,North,Highlighters,Stationery,880,232.32,10
+ORD1728,31-10-2024,North,T-Shirt,Clothing,680,108.8,2
+ORD1299,20-02-2024,East,Formal Shirt,Clothing,2643,417.59,3
+ORD1669,17-08-2024,South,Bluetooth Speaker,Electronics,9912,921.82,4
+ORD1325,22-03-2024,North,Smartwatch,Electronics,126090,19922.22,10
+ORD1322,04-11-2024,West,Bluetooth Speaker,Electronics,30232,3779.0,8
+ORD1234,09-10-2024,South,Sticky Notes,Stationery,392,110.94,8
+ORD1894,15-01-2024,West,Headphones,Electronics,6765,798.27,5
+ORD1166,20-09-2024,North,T-Shirt,Clothing,11214,2612.86,9
+ORD1082,16-09-2024,East,T-Shirt,Clothing,6776,1558.48,7
+ORD1074,08-04-2024,West,Bed Frame,Furniture,191615,24718.33,5
+ORD1415,07-09-2024,North,Mixer Grinder,Appliances,19640,2847.8,8
+ORD1878,21-11-2024,North,Formal Shirt,Clothing,4572,818.39,2
+ORD1895,22-04-2024,South,Formal Shirt,Clothing,8664,2954.42,6
+ORD1791,07-08-2024,East,Microwave Oven,Appliances,35655,4135.98,5
+ORD1855,20-04-2024,West,Water Purifier,Appliances,111128,13001.98,8
+ORD1346,30-10-2024,Central,Smartwatch,Electronics,36876,5236.39,3
+ORD1656,26-01-2024,West,Air Fryer,Appliances,103887,11947.01,9
+ORD1172,28-02-2024,West,Headphones,Electronics,14646,2533.76,3
+ORD1149,20-02-2024,South,Iron,Appliances,7532,1250.31,4
+ORD1647,26-03-2024,West,File Folder,Stationery,483,149.25,7
+ORD1475,28-04-2024,North,Bed Frame,Furniture,351980,70396.0,10
+ORD1294,09-07-2024,Central,Headphones,Electronics,69948,6435.22,9
+ORD1629,23-12-2024,East,Air Fryer,Appliances,9261,1805.89,1
+ORD1865,14-07-2024,East,Air Fryer,Appliances,51000,7293.0,10
+ORD1081,18-06-2024,Central,Bed Frame,Furniture,67168,15918.82,2
+ORD1458,21-08-2024,East,Smartphone,Electronics,517940,76137.18,10
+ORD1755,13-06-2024,South,Bed Frame,Furniture,58245,10833.57,5
+ORD1794,16-11-2024,Central,T-Shirt,Clothing,6520,2008.16,5
+ORD1500,04-08-2024,West,Tablet,Electronics,347256,47921.33,8
+ORD1523,21-12-2024,South,Mixer Grinder,Appliances,37982,6077.12,7
+ORD1690,31-10-2024,West,Bluetooth Speaker,Electronics,45656,6163.56,8
+ORD1333,07-02-2024,West,Bluetooth Speaker,Electronics,12952,2085.27,8
+ORD1364,27-05-2024,North,Pen Set,Stationery,2520,889.56,9
+ORD1292,24-05-2024,West,Mixer Grinder,Appliances,48861,9625.62,9
+ORD1800,28-11-2024,North,Headphones,Electronics,26700,2776.8,6
+ORD1408,26-12-2024,East,Jeans,Clothing,,899.58,2
+ORD1552,20-05-2024,North,Iron,Appliances,10950,1182.6,6
+ORD1665,28-10-2024,South,Microwave Oven,Appliances,11342,2064.24,1
+ORD1666,02-08-2024,Central,T-Shirt,Clothing,11776,3838.98,8
+ORD1876,23-03-2024,North,Office Chair,Furniture,86058,19104.88,9
+ORD1591,10-10-2024,West,Laptop,Electronics,288906,31490.75,6
+ORD1204,08-03-2024,Central,Notebook,Stationery,846,324.02,9
+ORD1621,05-10-2024,North,Pen Set,Stationery,1770,546.93,6
+ORD1696,29-12-2024,East,Sticky Notes,Stationery,448,130.82,7
+ORD1360,25-01-2024,North,Sofa,Furniture,433264,101817.04,8
+ORD1125,11-08-2024,Central,Bookshelf,Furniture,39132,8922.1,6
+ORD1422,12-07-2024,West,Tablet,Electronics,186435,27033.07,9
+ORD1021,01-11-2024,North,Pen Set,Stationery,2485,991.52,7
+ORD1353,12-06-2024,East,Pen Set,Stationery,717,217.25,3
+ORD1264,23-04-2024,East,Sneakers,Clothing,6375,1606.5,3
+ORD1571,08-01-2024,East,Office Chair,Furniture,3990,969.57,1
+ORD1574,07-06-2024,North,Mixer Grinder,Appliances,13088,2015.55,4
+ORD1369,21-08-2024,South,Water Purifier,Appliances,74610,9923.13,9
+ORD1370,09-11-2024,East,Bluetooth Speaker,Electronics,41650,6414.1,7
+ORD1267,29-03-2024,Central,Smartwatch,Electronics,8804,1540.7,2
+ORD1343,14-06-2024,South,Notebook,Stationery,1296,333.07,9
+ORD1763,03-12-2024,South,Laptop,Electronics,349644,56991.97,6
+ORD1461,01-10-2024,East,Laptop,Electronics,794619,119192.85,9
+ORD1099,31-12-2024,East,Study Table,Furniture,47510,7696.62,5
+ORD1645,15-05-2024,South,Study Table,Furniture,19484,2981.05,2
+ORD1488,02-02-2024,South,Sticky Notes,Stationery,365,94.9,5
+ORD1261,15-06-2024,South,Formal Shirt,Clothing,15420,4872.72,10
+ORD1873,08-07-2024,Central,Microwave Oven,Appliances,73256,14577.94,8
+ORD1221,10-10-2024,South,Air Fryer,Appliances,29268,3892.64,4
+ORD1062,14-04-2024,East,Mixer Grinder,Appliances,32456,6199.1,8
+ORD1168,14-08-2024,North,Office Chair,Furniture,59990,8218.63,5
+ORD1708,23-04-2024,East,Study Table,Furniture,54445,12086.79,5
+ORD1102,26-08-2024,West,Smartphone,Electronics,150136,17866.18,4
+ORD1408,26-12-2024,East,Jeans,Clothing,4016,899.58,2
+ORD1049,30-01-2024,North,Air Fryer,Appliances,93904,18029.57,8
+ORD1582,19-05-2024,Central,Tablet,Electronics,85250,11082.5,5
+ORD1576,02-05-2024,North,Study Table,Furniture,38298,6740.45,2
+ORD1257,07-03-2024,West,Microwave Oven,Appliances,52784,8234.3,4
+ORD1308,05-10-2024,Central,Formal Shirt,Clothing,15606,2403.32,9
+ORD1499,20-11-2024,East,Study Table,Furniture,73955,10353.7,5
+ORD1805,20-09-2024,North,Headphones,Electronics,21405,2868.27,3
+ORD1555,01-09-2024,North,Smartwatch,Electronics,52050,6870.6,10
+ORD1738,21-08-2024,East,Bookshelf,Furniture,26560,3532.48,8
+ORD1547,22-07-2024,South,Sticky Notes,Stationery,332,84.33,4
+ORD1530,22-04-2024,East,Smartphone,Electronics,123675,16572.45,5
+ORD1646,25-02-2024,North,Smartphone,Electronics,271033,41468.05,7
+ORD1138,24-05-2024,North,Office Chair,Furniture,33635,5617.05,5
+ORD1512,29-12-2024,North,Laptop,Electronics,464790,42295.89,6
+ORD1432,10-12-2024,East,Study Table,Furniture,91780,12757.42,5
+ORD1181,30-08-2024,West,Pen Set,Stationery,909,357.24,3
+ORD1010,29-04-2024,North,Pen Set,Stationery,1410,461.07,5
+ORD1826,03-12-2024,East,Jeans,Clothing,14240,3745.12,10
+ORD1485,07-01-2024,East,Sticky Notes,Stationery,210,72.45,7
+ORD1154,11-04-2024,West,Headphones,Electronics,23769,3446.5,9
+ORD1757,20-10-2024,West,Tablet,Electronics,330392,37003.9,8
+ORD1820,26-11-2024,Central,Smartwatch,Electronics,13542,1381.28,3
+ORD1150,21-03-2024,South,Bluetooth Speaker,Electronics,13626,1308.1,9
+ORD1201,13-11-2024,East,T-Shirt,Clothing,1494,494.51,3
+ORD1391,27-01-2024,North,Sticky Notes,Stationery,480,105.6,6
+ORD1443,27-10-2024,Central,Office Chair,Furniture,51376,11970.61,8
+ORD1569,08-03-2024,West,Air Fryer,Appliances,66402,10292.31,7
+ORD1242,03-09-2024,South,Headphones,Electronics,46350,6303.6,6
+ORD1824,18-06-2024,East,Smartwatch,Electronics,12556,1368.6,4
+ORD1277,12-08-2024,West,Mixer Grinder,Appliances,62955,7302.78,9
+ORD1739,30-03-2024,North,Sofa,Furniture,356112,57334.03,6
+ORD1103,26-10-2024,North,Sneakers,Clothing,46160,11309.2,10
+ORD1834,18-04-2024,North,Microwave Oven,Appliances,69520,13139.28,5
+ORD1235,20-08-2024,West,Sticky Notes,Stationery,120,34.2,2
+ORD1056,14-11-2024,Central,Headphones,Electronics,10408,,2
+ORD1590,24-07-2024,North,Highlighters,Stationery,595,157.68,5
+ORD1135,05-06-2024,East,Study Table,Furniture,31634,4586.93,2
+ORD1586,05-07-2024,West,Smartwatch,Electronics,6237,842.0,3
+ORD1185,20-12-2024,West,Iron,Appliances,4290,793.65,2
+ORD1462,08-08-2024,South,Headphones,Electronics,10190,968.05,2
+ORD1287,03-10-2024,Central,Smartphone,Electronics,303018,28180.67,6
+ORD1411,06-12-2024,South,Sneakers,Clothing,8680,2213.4,4
+ORD1875,03-12-2024,North,Jacket,Clothing,12116,3719.61,4
+ORD1374,18-12-2024,North,Water Purifier,Appliances,82800,16311.6,8
+ORD1382,14-12-2024,East,Water Purifier,Appliances,73200,14347.2,8
+ORD1771,31-03-2024,Central,Bluetooth Speaker,Electronics,5244,624.04,3
+ORD1718,07-08-2024,West,Pen Set,Stationery,69,21.18,1
+ORD1430,03-10-2024,South,Sneakers,Clothing,2647,664.4,1
+ORD1505,20-02-2024,East,Study Table,Furniture,146124,27325.19,9
+ORD1435,11-10-2024,West,Smartphone,Electronics,312960,46005.12,6
+ORD1511,12-08-2024,West,Bed Frame,Furniture,39678,4999.43,2
+ORD1189,02-06-2024,North,Smartphone,Electronics,82062,8944.76,6
+ORD1375,23-10-2024,Central,Study Table,Furniture,13560,2467.92,1
+ORD1352,14-04-2024,East,Water Purifier,Appliances,33363,6205.52,3
+ORD1798,05-12-2024,East,Bed Frame,Furniture,117714,17421.67,6
+ORD1483,12-10-2024,Central,Mixer Grinder,Appliances,19922,2051.97,7
+ORD1276,24-06-2024,North,Mixer Grinder,Appliances,6960,870.0,3
+ORD1243,28-02-2024,East,Air Fryer,Appliances,42120,7792.2,4
+ORD1270,28-08-2024,West,Iron,Appliances,9625,1530.38,5
+ORD1562,14-02-2024,North,Smartwatch,Electronics,22318,3414.65,2
+ORD1192,14-07-2024,Central,T-Shirt,Clothing,5276,1756.91,4
+ORD1266,26-11-2024,South,Study Table,Furniture,12798,1958.09,2
+ORD1883,22-09-2024,East,Office Chair,Furniture,15844,3137.11,1
+ORD1628,29-03-2024,South,Study Table,Furniture,92100,20722.5,10
+ORD1371,02-06-2024,Central,Bed Frame,Furniture,334269,62174.03,9
+ORD1334,12-06-2024,East,Jeans,Clothing,3978,1304.78,2
+ORD1104,29-06-2024,East,Sneakers,Clothing,34524,8907.19,7
+ORD1595,21-11-2024,North,Bed Frame,Furniture,34868,7147.94,1
+ORD1389,22-12-2024,East,Smartwatch,Electronics,23174,3568.8,2
+ORD1216,23-05-2024,North,Jeans,Clothing,10134,2422.03,6
+ORD1691,25-06-2024,South,Bookshelf,Furniture,14340,1778.16,2
+ORD1013,24-03-2024,West,Pen Set,Stationery,1885,637.13,5
+ORD1009,26-12-2024,North,Smartphone,Electronics,115860,20738.94,4
+ORD1706,28-03-2024,Central,Bluetooth Speaker,Electronics,8495,1078.87,5
+ORD1324,22-11-2024,West,Notebook,Stationery,1188,415.8,9
+ORD1472,30-12-2024,West,Tablet,Electronics,113230,15399.28,5
+ORD1531,27-03-2024,West,Air Fryer,Appliances,94952,10539.67,8
+ORD1716,17-04-2024,South,Air Fryer,Appliances,34563,6186.78,3
+ORD1124,18-05-2024,Central,Formal Shirt,Clothing,19674,4859.48,9
+ORD1469,20-12-2024,Central,File Folder,Stationery,150,57.75,5
+ORD1179,05-10-2024,West,Highlighters,Stationery,528,209.09,6
+ORD1795,08-10-2024,East,Tablet,Electronics,158490,27894.24,6
+ORD1703,31-05-2024,East,Sticky Notes,Stationery,483,167.6,7
+ORD1882,30-03-2024,West,Highlighters,Stationery,91,33.67,1
+ORD1404,07-05-2024,North,Bookshelf,Furniture,44506,7922.07,7
